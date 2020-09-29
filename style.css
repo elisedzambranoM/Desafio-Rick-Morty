@@ -15,7 +15,7 @@ li {
   align-items: center;
   justify-content: center;
   color: #ffffff;
-  margin: 10px;
+  line-height: 10px;
 }
 
 li span {
